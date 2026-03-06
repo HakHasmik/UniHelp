@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="explore"
+        android:id="@+id/menu_explore"
+
+        android:icon="@drawable/explore"
+        />
+    <item android:title="education"
+        android:id="@+id/menu_Education"
+        android:icon="@drawable/education"
+
+        />
+    <item android:title="favorites"
+        android:id="@+id/menu_favorites"
+        android:icon="@drawable/liked"
+
+        />
+
+    <item android:title="account"
+        android:id="@+id/menu_account"
+        android:icon="@drawable/user"
+
+        />
+
+
+
+
+</menu>

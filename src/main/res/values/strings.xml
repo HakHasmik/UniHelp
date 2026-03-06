@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UniHelp</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="username">Username....</string>
+    <string name="email">Email....</string>
+    <string name="password">Password....</string>
+    <string name="repeat_password">Repeat password....</string>
+    <string name="forgot"><u>Forgot password?</u></string>
+    <string name="create_account_underline"><u>Create an account</u></string>
+    <string name="create_account">Create an account</string>
+    <string name="continue_as"><u>Continue as a guest</u></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

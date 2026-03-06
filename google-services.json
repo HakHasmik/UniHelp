@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "684305575109",
+    "project_id": "unihelp-da855",
+    "storage_bucket": "unihelp-da855.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684305575109:android:5bc1a2dd6eefb8573d54ac",
+        "android_client_info": {
+          "package_name": "hasmik.hakobyan.unihelp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlX_e55WhZt8ksUDWE8RT-UXKVhMoPZJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
